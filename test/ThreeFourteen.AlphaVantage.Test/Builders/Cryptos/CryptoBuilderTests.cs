@@ -1,8 +1,5 @@
 ﻿using Shouldly;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using ThreeFourteen.AlphaVantage.Test.Builders;
 using Xunit;
 
